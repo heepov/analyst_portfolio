@@ -23,5 +23,6 @@
 - [Аналитик данных](https://). Яндекс Практикум, март 2023
 
 ## Контакты
-- [Resume](https://)
+- [Мое CV](https://)
 - [Telegram](https://t.me/heepov)
+- [heeepov@mail.com](mailto:heeepov@mail.com)
