@@ -11,7 +11,7 @@
 
 По этим проектам вы сможете быстро и четко оценить уровень моей технической подокотовки (Python - работа с разными типами данных, алгоритмы написания функций, оптимизация), мои аналитические способности, а также уровень владения визуализацией.
 
-|Название проекта|Описание проекта|Стек|
+|Название проекта|Краткое описание|Стек|
 |----------|----------|----------|
 |[Анализ отточного сегмента банковских клиентов](https://nbviewer.org/github/heepov/analyst_portfolio/blob/4e589f6cc4b16ef98e651cac289ef4b5223f18fc/bank/bank_main.ipynb)|Анализ банковских клиентов и выделение отточных сегментов для формирования рекомендаций.</br>[Создание dashboard в tableau.](https://public.tableau.com/views/final_project_16769750065530/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)</br>[Подготовка презентация с выводами и рекомендациями.](https://disk.yandex.ru/i/uMuxsjAy5SBizQ)|`pandas`</br>`plotly`</br>`tableau`</br>`scipy`|
 |[Создание парсера hh.ru и анализ вакансий “Аналитик”](https://nbviewer.org/github/heepov/analyst_portfolio/blob/42c2e6765ab8d90e04c91407f93e1ed8acf462ab/hh_parcer/parcer_hh.ipynb)|Написание парсера с использованием api hh.ru, провести анализ вакансий аналитиков на сайте hh.ru для выделения основных навыков и оптимизации процесса поиска работы.|`python`</br>`re_expressions`</br>`requests`</br>`beautiful_soup`|
